@@ -8,6 +8,7 @@ public class HelloWorldGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldGitApplication.class, args);
+		system.out.println(x:"Helloworld Application is Started...")
 	}
 
 }
